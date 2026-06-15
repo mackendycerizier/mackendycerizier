@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mackendy! <br/><a href="https://github.com/joshmadakor1">Computer Network Technician</a>, <a 
+<h1>Hi, I'm Mackendy! <br/><a href="https://github.com/joshmadakor1">Computer Network Technician</a> <a 
 
 <h2></h2>
 
