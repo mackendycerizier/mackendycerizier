@@ -9,7 +9,7 @@
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  |[Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS) | ▶️ Video included |
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
@@ -37,6 +37,25 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
+
+
+## 2. IT Support Projects
+
+### Help Desk (osTicket)
+
+| Project | Notes |
+|---------|-------|
+| [Prerequisites & Installation](./Help-Desk/Prerequisites.md) | ▶️ Video included |
+| [Post-Installation Configuration](./Help-Desk/Post-Installation-Configuration.md) | ▶️ Video included |
+| [Ticket Lifecycle & SLAs](./Help-Desk/Ticket-Lifecycle.md) | ▶️ Video included |
+
+### Microsoft Azure / Active Directory
+
+| Project | Notes |
+|---------|-------|
+| [Configuring On-Premises Active Directory within Azure VMs](https://www.youtube.com/watch?v=S8qGmBtXZV8) | ▶️ Video included |
+| [Network Security Groups (NSGs) & Network Protocol Analysis](./Azure/NSGs-Wireshark.md) | Wireshark |
+| [Basic DNS Configuration & Testing](./Azure/DNS.md) | Azure |
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
