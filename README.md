@@ -39,13 +39,13 @@ Together, these projects highlight the day-to-day responsibilities of a Computer
 
 ---
 
-## 2. IT Support Projects
+## 1. IT Support Projects
 
 ### 👨‍💻Help Desk (osTicket)
 
 | Project | Notes |
 |---------|-------|
-| [Prerequisites & Installation](./installation) | ▶️ Video included |
+| [Install a Support Ticketing System from scratch (osTicket)](./installation) | ▶️ Video included |
 | [Post-Installation Configuration](./Help-Desk/Post-Installation-Configuration.md) | ▶️ Video included |
 | [Ticket Lifecycle & SLAs](./Help-Desk/Ticket-Lifecycle.md) | ▶️ Video included |
 
