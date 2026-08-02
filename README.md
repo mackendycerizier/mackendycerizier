@@ -45,7 +45,7 @@ Together, these projects highlight the day-to-day responsibilities of a Computer
 
 | Project | Notes |
 |---------|-------|
-| [Install a Support Ticketing System from scratch (osTicket)](./osTicketSetup) | ▶️ Video included |
+| [Install a Support Ticketing System from scratch (osTicket)](./README) | ▶️ Video included |
 | [Post-Installation Configuration](./Help-Desk/Post-Installation-Configuration.md) | ▶️ Video included |
 | [Ticket Lifecycle & SLAs](./Help-Desk/Ticket-Lifecycle.md) | ▶️ Video included |
 
