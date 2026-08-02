@@ -39,9 +39,9 @@ Together, these projects highlight the day-to-day responsibilities of a Computer
 
 ---
 
-## 1. IT Support Projects
+## 👨‍💻 Information Technology Projects
 
-### 👨‍💻Help Desk (osTicket)
+### 1. Help Desk (osTicket)
 
 | Project | Notes |
 |---------|-------|
@@ -49,7 +49,7 @@ Together, these projects highlight the day-to-day responsibilities of a Computer
 | [Post-Installation Configuration](https://github.com/mackendycerizier/osTicket-Post-installation/) | ▶️ Video included |
 | [Ticket Lifecycle & SLAs](./Help-Desk/Ticket-Lifecycle.md) | ▶️ Video included |
 
-### 👨‍💻Microsoft Azure / Active Directory
+### 2.  Microsoft Azure / Active Directory
 
 | Project | Notes |
 |---------|-------|
