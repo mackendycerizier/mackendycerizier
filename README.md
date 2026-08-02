@@ -7,7 +7,7 @@
 ### *Computer Network Technician*
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
+  <a href="https://github.com/mackendycerizier/">
     <img src="https://img.shields.io/badge/LinkedIn-Mackendy_Cerizier-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
