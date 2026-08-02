@@ -45,7 +45,7 @@ Together, these projects highlight the day-to-day responsibilities of a Computer
 
 | Project | Notes |
 |---------|-------|
-| [Prerequisites & Installation](./Help-Desk/Prerequisites.md) | ▶️ Video included |
+| [Prerequisites & Installation](installation) | ▶️ Video included |
 | [Post-Installation Configuration](./Help-Desk/Post-Installation-Configuration.md) | ▶️ Video included |
 | [Ticket Lifecycle & SLAs](./Help-Desk/Ticket-Lifecycle.md) | ▶️ Video included |
 
