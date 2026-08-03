@@ -54,7 +54,7 @@ Together, these projects highlight the day-to-day responsibilities of a Computer
 | Project | Notes |
 |---------|-------|
 | [Configuring On-Premises Active Directory within Azure VMs](https://www.youtube.com/watch?v=S8qGmBtXZV8) | ▶️ Video included |
-| [Network Security Groups (NSGs) & Network Protocol Analysis](./Azure/NSGs-Wireshark.md) | Wireshark |
+| [Network Security Groups (NSGs) & Network Protocol Analysis](https://github.com/mackendycerizier/nsg-traffic-analysis/) | Wireshark |
 | [Basic DNS Configuration & Testing](./Azure/DNS.md) | Azure |
 
 <h2> 🤳 Connect with me:</h2>
