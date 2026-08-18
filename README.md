@@ -47,7 +47,7 @@ Together, these projects highlight the day-to-day responsibilities of a Computer
 |---------|-------|
 | [Install a Support Ticketing System from scratch (osTicket)](https://github.com/mackendycerizier/osTicket-install) | ▶️ Video included |
 | [Post-Installation Configuration](https://github.com/mackendycerizier/osTicket-Post-installation/) | ▶️ Video included |
-| [Ticket Lifecycle & SLAs](./Help-Desk/Ticket-Lifecycle.md) | ▶️ Video included |
+| [Ticket Lifecycle & SLAs](https://github.com/mackendycerizier/ticket-lifecycle) | ▶️ Video included |
 
 ### 2.  Microsoft Azure / Active Directory
 
