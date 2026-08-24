@@ -57,6 +57,15 @@ Together, these projects highlight the day-to-day responsibilities of a Computer
 | [Network Security Groups (NSGs) & Network Protocol Analysis](https://github.com/mackendycerizier/nsg-traffic-analysis/) | Wireshark |
 | [Basic DNS Configuration & Testing](./Azure/DNS.md) | Azure |
 
+### 3. Cisco Networking Projects (CCNA)
+
+| Project | Notes |
+|---------|-------|
+| Project 1: Coming soon... | ▶️ Video included |
+| Project 2: Coming soon...| ▶️ Video included |
+| Project 3: Coming soon... | ▶️ Video included |
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
