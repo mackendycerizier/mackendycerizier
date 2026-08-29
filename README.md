@@ -26,13 +26,17 @@ The projects in this portfolio were developed to reflect the responsibilities of
 </p>
 
 <p>
-The Active Directory project demonstrates the deployment and administration of a Windows Server infrastructure, including user and group management, organizational units (OUs), Group Policy configuration, account permissions, DNS management, and basic network security practices.
+The <b>Active Directory</b> project demonstrates the deployment and administration of a Windows Server infrastructure, including user and group management, organizational units (OUs), Group Policy configuration, account permissions, DNS management, and basic network security practices.
 </p>
 
 <p>
-The osTicket project focuses on help desk operations and IT support workflows. It demonstrates how technical issues are identified, documented, escalated, and resolved while maintaining effective communication with end users.
+The <b>osTicket</b> project focuses on help desk operations and IT support workflows. It demonstrates how technical issues are identified, documented, escalated, and resolved while maintaining effective communication with end users.
 </p>
+<p>
+The <b>CCNA Networking</b> section demonstrates my hands-on understanding of fundamental networking concepts based on <b>CCNA principles</b>. It includes practical configurations and troubleshooting exercises covering IPv4 addressing and subnetting, VLANs, access and trunk ports, inter-VLAN routing, static and default routing, OSPF, DHCP, DNS, and basic Cisco switch and router configurations. Using <b>Cisco Packet Tracer</b>, these projects demonstrate my ability to configure network devices, establish connectivity, verify network operations, and troubleshoot common networking issues in a simulated enterprise environment.
 
+  
+</p>
 <p>
 Together, these projects highlight the day-to-day responsibilities of a Computer Network Technician, including managing Active Directory users and groups, resetting passwords, assigning permissions, troubleshooting technical problems, supporting end users through osTicket, and maintaining secure and reliable network operations.
 </p>
